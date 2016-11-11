@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Grability Test</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--Conexion-->
+    <string name="alerta_conexion_internet">No se ha podido establecer la conexión con internet</string>
+</resources>
